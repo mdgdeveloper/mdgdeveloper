@@ -21,5 +21,5 @@ También tendrás acceso a las últimas publicaciones en mi blog dedicado al des
 
 
 ## También puedes encontrarme
-<img src='https://img.shields.io/badge/-@sergiomadrigal-1DA1F2?logo=Twitter&logoColor=white&style=flat'  />
-<img src='https://img.shields.io/badge/-dev.mdgmedia.es-21759B?logo=Wordpress&logoColor=white&style=flat'  />
+<a href='https://twitter.com/sergiomadrigal'><img src='https://img.shields.io/badge/-@sergiomadrigal-1DA1F2?logo=Twitter&logoColor=white&style=flat'  /></a>
+<a href='https://dev.mdgmedia.es'><img src='https://img.shields.io/badge/-dev.mdgmedia.es-21759B?logo=Wordpress&logoColor=white&style=flat'  />
