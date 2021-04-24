@@ -2,7 +2,7 @@
 
 ## Hola mundo! Soy Sergio Madrigal 👋
 ![status](https://img.shields.io/badge/status-up-green)
-![proyectos](https://img.shields.io/badge/proyectos-3-blue)
+![proyectos](https://img.shields.io/badge/proyectos-4-blue)
 
 Soy un ingeniero/psicólogo al que le está apasionando cada vez más el desarrollo web. Este pequeño espacio busca ser el cajón de sastre de los múltiples proyectos iniciados y , probablemente, nunca terminados, en mi carrera de aprendizaje en este apasionante mundo. 
 
